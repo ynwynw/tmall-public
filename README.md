@@ -1,7 +1,9 @@
 **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
 
 **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
+
 #程序员 #java #毕业设计 #网上商城 #springboot #课程设计 #编程 #Bootstrap #Druid #Echarts #源代码 #javaWeb #ssm 
+
 ### 介绍
 迷你商城是一个基于Spring Boot的综合性B2C电商平台，
 所用技术：Spring Boot+MySQL+Druid+Log4j2+Maven+Echarts+Bootstrap
