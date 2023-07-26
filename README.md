@@ -8,7 +8,7 @@
 
 **毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Springboot的网上商城管理系统(源代码+数据库)
+## 基于Springboot的网上商城管理系统(源代码+数据库+19000字论文)
 
 ## 一、系统介绍
 
